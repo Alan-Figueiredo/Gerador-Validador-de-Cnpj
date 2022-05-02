@@ -1,7 +1,4 @@
 
-# from random import randint
-# numero = str(randint(100000000000,999999999999))
-
 import re
 
 dig1 = 0
