@@ -1,6 +1,4 @@
 
-# from random import randint
-# numero = str(randint(100000000000,999999999999))
 cnpj = '042520110001'
 dig1 = 0
 dig2 = 0
